@@ -115,9 +115,9 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [hussamgalal999/modern-port](https://github.com/hussamgalal999/modern-port)
-2. 🗣 Commented on [#13](https://github.com/Carol42/Carol42/issues/13) in [Carol42/Carol42](https://github.com/Carol42/Carol42)
-3. ❗️ Opened issue [#6138](https://github.com/JonathanGin52/JonathanGin52/issues/6138) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 🗣 Commented on [#2](https://github.com/hussamgalal999/Kenzy-AI/pull/2#issuecomment-3542707426) in [hussamgalal999/Kenzy-AI](https://github.com/hussamgalal999/Kenzy-AI)
+2. 💪 Opened PR [#2](undefined) in [hussamgalal999/Kenzy-AI](https://github.com/hussamgalal999/Kenzy-AI)
+3. 💪 Opened PR [#2](undefined) in [hussamgalal999/modern-port](https://github.com/hussamgalal999/modern-port)
 4. ❗️ Opened issue [#6137](https://github.com/JonathanGin52/JonathanGin52/issues/6137) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 5. ❗️ Opened issue [#1358](https://github.com/benjaminsampica/benjaminsampica/issues/1358) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
