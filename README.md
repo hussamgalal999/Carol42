@@ -118,8 +118,8 @@
 1. 💪 Opened PR [#1686](undefined) in [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 2. 💪 Opened PR [#1](undefined) in [hussamgalal999/mimo-cli-max](https://github.com/hussamgalal999/mimo-cli-max)
 3. 💪 Opened PR [#2](undefined) in [hussamgalal999/AI-Headshot-Pro](https://github.com/hussamgalal999/AI-Headshot-Pro)
-4. 🗣 Commented on [#2](https://github.com/hussamgalal999/Kenzy-AI/pull/2#issuecomment-3542707426) in [hussamgalal999/Kenzy-AI](https://github.com/hussamgalal999/Kenzy-AI)
-5. 💪 Opened PR [#2](undefined) in [hussamgalal999/Kenzy-AI](https://github.com/hussamgalal999/Kenzy-AI)
+4. ❌ Merged PR [#2](undefined) in [hussamgalal999/Kenzy-AI](https://github.com/hussamgalal999/Kenzy-AI)
+5. 🗣 Commented on [#2](https://github.com/hussamgalal999/Kenzy-AI/pull/2#issuecomment-3542707426) in [hussamgalal999/Kenzy-AI](https://github.com/hussamgalal999/Kenzy-AI)
 <!--END_SECTION:activity-->
 
 </details>
