@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1686](undefined) in [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
-2. 💪 Opened PR [#1](undefined) in [hussamgalal999/mimo-cli-max](https://github.com/hussamgalal999/mimo-cli-max)
-3. 💪 Opened PR [#2](undefined) in [hussamgalal999/AI-Headshot-Pro](https://github.com/hussamgalal999/AI-Headshot-Pro)
-4. ❌ Merged PR [#2](undefined) in [hussamgalal999/Kenzy-AI](https://github.com/hussamgalal999/Kenzy-AI)
-5. 🗣 Commented on [#2](https://github.com/hussamgalal999/Kenzy-AI/pull/2#issuecomment-3542707426) in [hussamgalal999/Kenzy-AI](https://github.com/hussamgalal999/Kenzy-AI)
+1. 🗣 Commented on [#50](https://github.com/Itqan-community/mushaf-imad-flutter/issues/50#issuecomment-4015780746) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+2. 🗣 Commented on [#49](https://github.com/Itqan-community/mushaf-imad-flutter/issues/49#issuecomment-4015777828) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+3. 🗣 Commented on [#48](https://github.com/Itqan-community/mushaf-imad-flutter/issues/48#issuecomment-4015774875) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+4. 🗣 Commented on [#42](https://github.com/Itqan-community/mushaf-imad-flutter/issues/42#issuecomment-4015772427) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+5. 🗣 Commented on [#40](https://github.com/Itqan-community/mushaf-imad-flutter/issues/40#issuecomment-4015769670) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
 <!--END_SECTION:activity-->
 
 </details>
