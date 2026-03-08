@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/Itqan-community/mushaf-imad-flutter/issues/50#issuecomment-4015780746) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
-2. 🗣 Commented on [#49](https://github.com/Itqan-community/mushaf-imad-flutter/issues/49#issuecomment-4015777828) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
-3. 🗣 Commented on [#48](https://github.com/Itqan-community/mushaf-imad-flutter/issues/48#issuecomment-4015774875) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
-4. 🗣 Commented on [#42](https://github.com/Itqan-community/mushaf-imad-flutter/issues/42#issuecomment-4015772427) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
-5. 🗣 Commented on [#40](https://github.com/Itqan-community/mushaf-imad-flutter/issues/40#issuecomment-4015769670) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+1. ❗ Opened issue [#69](https://github.com/Itqan-community/mushaf-imad-flutter/issues/69) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+2. ❗ Opened issue [#68](https://github.com/Itqan-community/mushaf-imad-flutter/issues/68) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+3. 🗣 Commented on [#7](https://github.com/Itqan-community/mushaf-imad-flutter/issues/7#issuecomment-4017284273) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+4. 💪 Opened PR [#67](https://github.com/Itqan-community/mushaf-imad-flutter/pull/67) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+5. 💪 Opened PR [#66](https://github.com/Itqan-community/mushaf-imad-flutter/pull/66) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
 <!--END_SECTION:activity-->
 
 </details>
