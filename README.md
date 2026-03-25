@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/hussamgalal999/badge_unlocker_temp/issues/1) in [hussamgalal999/badge_unlocker_temp](https://github.com/hussamgalal999/badge_unlocker_temp)
-2. ❗ Opened issue [#1](https://github.com/hussamgalal999/badge_unlocker_temp/issues/1) in [hussamgalal999/badge_unlocker_temp](https://github.com/hussamgalal999/badge_unlocker_temp)
-3. ❗ Opened issue [#69](https://github.com/Itqan-community/mushaf-imad-flutter/issues/69) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
-4. ❗ Opened issue [#68](https://github.com/Itqan-community/mushaf-imad-flutter/issues/68) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
-5. 🗣 Commented on [#7](https://github.com/Itqan-community/mushaf-imad-flutter/issues/7#issuecomment-4017284273) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+1. 💪 Opened PR [#3](https://github.com/hussamgalal999/modern-port/pull/3) in [hussamgalal999/modern-port](https://github.com/hussamgalal999/modern-port)
+2. 🔒 Closed issue [#1](https://github.com/hussamgalal999/badge_unlocker_temp/issues/1) in [hussamgalal999/badge_unlocker_temp](https://github.com/hussamgalal999/badge_unlocker_temp)
+3. ❗ Opened issue [#1](https://github.com/hussamgalal999/badge_unlocker_temp/issues/1) in [hussamgalal999/badge_unlocker_temp](https://github.com/hussamgalal999/badge_unlocker_temp)
+4. ❗ Opened issue [#69](https://github.com/Itqan-community/mushaf-imad-flutter/issues/69) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+5. ❗ Opened issue [#68](https://github.com/Itqan-community/mushaf-imad-flutter/issues/68) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
 <!--END_SECTION:activity-->
 
 </details>
