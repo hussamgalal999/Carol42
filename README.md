@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/hussamgalal999/modern-port/pull/4) in [hussamgalal999/modern-port](https://github.com/hussamgalal999/modern-port)
-2. 💪 Opened PR [#3](https://github.com/hussamgalal999/modern-port/pull/3) in [hussamgalal999/modern-port](https://github.com/hussamgalal999/modern-port)
-3. 🔒 Closed issue [#1](https://github.com/hussamgalal999/badge_unlocker_temp/issues/1) in [hussamgalal999/badge_unlocker_temp](https://github.com/hussamgalal999/badge_unlocker_temp)
-4. ❗ Opened issue [#1](https://github.com/hussamgalal999/badge_unlocker_temp/issues/1) in [hussamgalal999/badge_unlocker_temp](https://github.com/hussamgalal999/badge_unlocker_temp)
-5. ❗ Opened issue [#69](https://github.com/Itqan-community/mushaf-imad-flutter/issues/69) in [Itqan-community/mushaf-imad-flutter](https://github.com/Itqan-community/mushaf-imad-flutter)
+1. 💪 Opened PR [#5](https://github.com/hussamgalal999/modern-port/pull/5) in [hussamgalal999/modern-port](https://github.com/hussamgalal999/modern-port)
+2. 💪 Opened PR [#4](https://github.com/hussamgalal999/modern-port/pull/4) in [hussamgalal999/modern-port](https://github.com/hussamgalal999/modern-port)
+3. 💪 Opened PR [#3](https://github.com/hussamgalal999/modern-port/pull/3) in [hussamgalal999/modern-port](https://github.com/hussamgalal999/modern-port)
+4. 🔒 Closed issue [#1](https://github.com/hussamgalal999/badge_unlocker_temp/issues/1) in [hussamgalal999/badge_unlocker_temp](https://github.com/hussamgalal999/badge_unlocker_temp)
+5. ❗ Opened issue [#1](https://github.com/hussamgalal999/badge_unlocker_temp/issues/1) in [hussamgalal999/badge_unlocker_temp](https://github.com/hussamgalal999/badge_unlocker_temp)
 <!--END_SECTION:activity-->
 
 </details>
