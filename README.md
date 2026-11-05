@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/hussamgalal999/QudSystem-software-company/pull/15) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-2. 💪 Opened PR [#14](https://github.com/hussamgalal999/QudSystem-software-company/pull/14) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-3. 🎉 Merged PR [#13](https://github.com/hussamgalal999/QudSystem-software-company/pull/13) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-4. 💪 Opened PR [#13](https://github.com/hussamgalal999/QudSystem-software-company/pull/13) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-5. 🗣 Commented on [#4](https://github.com/hussamgalal999/QudSystem-software-company/pull/4#issuecomment-6639463612) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+1. ℹ️ Reopened PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+2. ❌ Closed PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+3. ℹ️ Reopened PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+4. ❌ Closed PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+5. ℹ️ Reopened PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
 <!--END_SECTION:activity-->
 
 </details>
