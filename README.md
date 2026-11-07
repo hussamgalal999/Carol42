@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/hussamgalal999/QudSystem-software-company/pull/26) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-2. ❌ Closed PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-3. ℹ️ Reopened PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-4. ❌ Closed PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-5. ℹ️ Reopened PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+1. 🗣 Commented on [#30](https://github.com/hussamgalal999/QudSystem-software-company/pull/30#issuecomment-6710188991) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+2. 🗣 Commented on [#30](https://github.com/hussamgalal999/QudSystem-software-company/pull/30#issuecomment-6710029041) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+3. ❌ Closed PR [#31](https://github.com/hussamgalal999/QudSystem-software-company/pull/31) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+4. 🗣 Commented on [#31](https://github.com/hussamgalal999/QudSystem-software-company/pull/31#issuecomment-6709972616) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+5. 🗣 Commented on [#30](https://github.com/hussamgalal999/QudSystem-software-company/pull/30#issuecomment-6709970990) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
 <!--END_SECTION:activity-->
 
 </details>
