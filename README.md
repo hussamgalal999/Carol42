@@ -115,7 +115,7 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+1. 💪 Opened PR [#26](https://github.com/hussamgalal999/QudSystem-software-company/pull/26) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
 2. ❌ Closed PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
 3. ℹ️ Reopened PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
 4. ❌ Closed PR [#24](https://github.com/hussamgalal999/QudSystem-software-company/pull/24) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
