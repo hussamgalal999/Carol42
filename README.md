@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/hussamgalal999/QudSystem-software-company/pull/27) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-2. 🎉 Merged PR [#28](https://github.com/hussamgalal999/QudSystem-software-company/pull/28) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-3. ❗ Opened issue [#35](https://github.com/hussamgalal999/QudSystem-software-company/issues/35) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-4. ❗ Opened issue [#34](https://github.com/hussamgalal999/QudSystem-software-company/issues/34) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-5. ❗ Opened issue [#33](https://github.com/hussamgalal999/QudSystem-software-company/issues/33) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+1. ❗ Opened issue [#36](https://github.com/hussamgalal999/QudSystem-software-company/issues/36) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+2. 🎉 Merged PR [#27](https://github.com/hussamgalal999/QudSystem-software-company/pull/27) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+3. 🎉 Merged PR [#28](https://github.com/hussamgalal999/QudSystem-software-company/pull/28) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+4. ❗ Opened issue [#35](https://github.com/hussamgalal999/QudSystem-software-company/issues/35) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+5. ❗ Opened issue [#34](https://github.com/hussamgalal999/QudSystem-software-company/issues/34) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
 <!--END_SECTION:activity-->
 
 </details>
