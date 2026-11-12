@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/hussamgalal999/QudSystem-software-company/issues/39) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-2. 🗣 Commented on [#33](https://github.com/hussamgalal999/QudSystem-software-company/issues/33#issuecomment-6788544702) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-3. 💪 Opened PR [#38](https://github.com/hussamgalal999/QudSystem-software-company/pull/38) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-4. ❗ Opened issue [#37](https://github.com/hussamgalal999/QudSystem-software-company/issues/37) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-5. ℹ️ Labeled issue [#37](https://github.com/hussamgalal999/QudSystem-software-company/issues/37) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+1. 🗣 Commented on [#34](https://github.com/hussamgalal999/QudSystem-software-company/issues/34#issuecomment-6816955084) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+2. 🗣 Commented on [#35](https://github.com/hussamgalal999/QudSystem-software-company/issues/35#issuecomment-6816973761) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+3. 🗣 Commented on [#32](https://github.com/hussamgalal999/QudSystem-software-company/issues/32#issuecomment-6816973139) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+4. ❗ Opened issue [#39](https://github.com/hussamgalal999/QudSystem-software-company/issues/39) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+5. 🗣 Commented on [#33](https://github.com/hussamgalal999/QudSystem-software-company/issues/33#issuecomment-6788544702) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
 <!--END_SECTION:activity-->
 
 </details>
