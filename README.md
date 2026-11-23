@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/hussamgalal999/QudSystem-software-company/issues/32#issuecomment-6971040877) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-2. 🗣 Commented on [#16](https://github.com/hussamgalal999/QudSystem-software-company/issues/16#issuecomment-6970993342) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-3. 💪 Opened PR [#3](https://github.com/hussamgalal999/ATS_CV-Resume-Builder/pull/3) in [hussamgalal999/ATS_CV-Resume-Builder](https://github.com/hussamgalal999/ATS_CV-Resume-Builder)
-4. 🗣 Commented on [#33](https://github.com/hussamgalal999/QudSystem-software-company/issues/33#issuecomment-6941123570) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-5. 🗣 Commented on [#40](https://github.com/hussamgalal999/QudSystem-software-company/issues/40#issuecomment-6941123056) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+1. 💪 Opened PR [#219](https://github.com/Nayjest/ai-microcore/pull/219) in [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore)
+2. 💪 Opened PR [#43](https://github.com/hussamgalal999/QudSystem-software-company/pull/43) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+3. 🗣 Commented on [#1](https://github.com/hussamgalal999/qudsystem-website/pull/1#issuecomment-7094550803) in [hussamgalal999/qudsystem-website](https://github.com/hussamgalal999/qudsystem-website)
+4. 💪 Opened PR [#42](https://github.com/hussamgalal999/QudSystem-software-company/pull/42) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+5. 💪 Opened PR [#2](https://github.com/hussamgalal999/qudsystemV12/pull/2) in [hussamgalal999/qudsystemV12](https://github.com/hussamgalal999/qudsystemV12)
 <!--END_SECTION:activity-->
 
 </details>
