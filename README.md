@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#221](https://github.com/Nayjest/ai-microcore/pull/221) in [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore)
-2. 💪 Opened PR [#219](https://github.com/Nayjest/ai-microcore/pull/219) in [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore)
-3. 💪 Opened PR [#43](https://github.com/hussamgalal999/QudSystem-software-company/pull/43) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
-4. 🗣 Commented on [#1](https://github.com/hussamgalal999/qudsystem-website/pull/1#issuecomment-7094550803) in [hussamgalal999/qudsystem-website](https://github.com/hussamgalal999/qudsystem-website)
-5. 💪 Opened PR [#42](https://github.com/hussamgalal999/QudSystem-software-company/pull/42) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
+1. 💪 Opened PR [#94](https://github.com/MotifTechnologies/AgentTracer/pull/94) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
+2. 💪 Opened PR [#91](https://github.com/MotifTechnologies/AgentTracer/pull/91) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
+3. 💪 Opened PR [#221](https://github.com/Nayjest/ai-microcore/pull/221) in [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore)
+4. 💪 Opened PR [#219](https://github.com/Nayjest/ai-microcore/pull/219) in [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore)
+5. 💪 Opened PR [#43](https://github.com/hussamgalal999/QudSystem-software-company/pull/43) in [hussamgalal999/QudSystem-software-company](https://github.com/hussamgalal999/QudSystem-software-company)
 <!--END_SECTION:activity-->
 
 </details>
