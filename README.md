@@ -115,11 +115,11 @@
  <summary>Recent activity</summary>
     
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/MotifTechnologies/AgentTracer/pull/91) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
-2. 🎉 Merged PR [#94](https://github.com/MotifTechnologies/AgentTracer/pull/94) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
-3. 💪 Opened PR [#94](https://github.com/MotifTechnologies/AgentTracer/pull/94) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
-4. 💪 Opened PR [#91](https://github.com/MotifTechnologies/AgentTracer/pull/91) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
-5. 💪 Opened PR [#221](https://github.com/Nayjest/ai-microcore/pull/221) in [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore)
+1. 💪 Opened PR [#98](https://github.com/MotifTechnologies/AgentTracer/pull/98) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
+2. 💪 Opened PR [#96](https://github.com/MotifTechnologies/AgentTracer/pull/96) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
+3. 🎉 Merged PR [#91](https://github.com/MotifTechnologies/AgentTracer/pull/91) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
+4. 🎉 Merged PR [#94](https://github.com/MotifTechnologies/AgentTracer/pull/94) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
+5. 💪 Opened PR [#94](https://github.com/MotifTechnologies/AgentTracer/pull/94) in [MotifTechnologies/AgentTracer](https://github.com/MotifTechnologies/AgentTracer)
 <!--END_SECTION:activity-->
 
 </details>
